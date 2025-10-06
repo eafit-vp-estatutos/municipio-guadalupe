@@ -1,2 +1,3 @@
-# municipio-guadalupe
-Sitio web oficial del municipio de Guadalupe, Departamento
+# Guadalupe
+
+Proyecto de generación y análisis del Estatuto Tributario Local para Guadalupe.
