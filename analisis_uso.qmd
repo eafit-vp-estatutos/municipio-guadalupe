@@ -17,7 +17,10 @@ params:
 lang: es
 ---
 
+El propósito de este análisis es ofrecer una lectura del uso del suelo en el municipio de Guadalupe, con el fin de integrarlo de manera más clara en la planeación del municipio. 
 
-## Conflicto de uso (RURAL)
+Para ver un análisis detallado de la metodología [(ir)](https://jcmunozmora.github.io/estatutos_r1_pro/conflicto.html).
+
+A continuación se presenta los resultados para el valor promedio de uso y sobreutilización para cada municipio.
 
 ![](img_r1/conf_porcentajes.png)
