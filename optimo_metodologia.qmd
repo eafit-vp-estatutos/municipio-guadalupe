@@ -1,0 +1,41 @@
+---
+title: "Metodología selección estatuto óptimo - Guadalupe"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    smooth-scroll: true
+execute:
+  echo: false
+  warning: false
+  message: false
+params:
+  cod_dane: "05315"
+  nombre: "Guadalupe"
+lang: es
+---
+
+La selección del estatuto óptimo se realiza con una combinación de factores que busca 
+
+
+Los pasos para la selección 
+1. Análisis y estandarización de la información catastral R1
+2. Transcripción y análisis del estatuto vigente
+3. Análisis de la información de facturación con fin de determinar las probabilidades de pago 
+4. Uso de modelos estadísticos para la modelación 
+5. Modelo de
+
+# Criterios de estatutos óptimos
+
+Basado en la mejores prácticas internacionales y el análisis de las estructuras de los estatutos, el equipo a desarrollado los criterios bases que debería tener una tabla de milaje completa, sencilla y con los elementos básicos para volver el impuesto predial un instrumento de planeación territoiral
+
+para optimizar el diseño de las tablas de milaje
+
+1. **Progresividad entendible.** Las tarifas suben de forma ordenada al pasar de usos residenciales / productivos básicos a usos más intensivos (incluyendo ahora Institucional y Vulnerables con un tratamiento estable) y de avalúos bajos a altos en los grupos segmentados. La idea es que **quien tiene más capacidad paga más**, sin saltos bruscos.
+2. **Cumplimiento de reglas legales.** Las **seis tarifas centrales** de cada zona se mantienen dentro de una franja legal **entre 5 y 16 por mil**. Solo los dos extremos pueden salirse de esa franja: 
+   - **Habitacional–Bajos** (el más bajo), que puede estar por debajo, y
+   - **Especulativo–Altos** (el más alto), que puede estar por encima hasta el tope que defina el municipio.
+3. **Claridad para decidir.** Separar los extremos del resto nos permite **afinar la protección a hogares de menor avalúo** y, al tiempo, **desincentivar prácticas especulativas** cuando el municipio lo considere pertinente.
+4. **Tarifas enteras y ordenadas.** Las cifras finales son **números enteros**, fáciles de comunicar y comparar, manteniendo el orden progresivo.
